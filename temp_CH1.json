@@ -1,0 +1,29 @@
+{
+    "Temp_CH1": [
+        {
+            "name": "Tank 1",
+            "value": "N.A.",
+            "sp": "N.A."
+        },
+        {
+            "name": "Tank 3",
+            "value": "87.3 F",
+            "sp": "N.A."
+        },
+        {
+            "name": "Tank 5",
+            "value": "82.2 F",
+            "sp": "40.0 F"
+        },
+        {
+            "name": "Tank 7",
+            "value": "89.1 F",
+            "sp": "131.0 F"
+        },
+        {
+            "name": "Tank 9",
+            "value": "89.2 F",
+            "sp": "131.0 F"
+        }
+    ]
+}
